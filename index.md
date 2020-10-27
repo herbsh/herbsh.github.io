@@ -16,15 +16,10 @@ I am a PhD candidate of at the department of [Operations, Supply Chain and Data 
 
 [LinkedIn](https://www.linkedin.com/in/herbiehuang/). 
 
-## Header 2
  
-### Small image
+ 
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image 
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+![GDTBATH](./assets/img/dean_dome.png)
 
 
 

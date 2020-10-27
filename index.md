@@ -19,7 +19,7 @@ I am a PhD candidate of at the department of [Operations, Supply Chain and Data 
  
  
 
-![GDTBATH](./assets/img/dean_dome.png)
+![GDTBATH](https://raw.githubusercontent.com/herbsh/herbsh.github.io/master/assets/img/dean_dome.jpg)    
 
 
 

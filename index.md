@@ -2,17 +2,19 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+ 
 
-[Link to another page](./another-page.html).
+# Hi, I'm 
+**Herbie Baiyang Huang** 
 
-There should be whitespace between paragraphs.
+I am a PhD candidate of at the department of [Operations, Supply Chain and Data Analytics](https://www.kenan-flagler.unc.edu/programs/phd/academics-areas/operations/),  Kenan-Flagler Business School at the University of North Carolina at Chapel Hill. I combine machine learning, Natural Language Processing and Econometrics in my research projects to study topics surrounding climate change, supply chain management and market place behaviors. 
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+[Link to Google Scholar Page](https://scholar.google.com/citations?user=XUzxAcwAAAAJ). 
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+[Research](./another-page.html). 
+
+[LinkedIn](https://www.linkedin.com/in/herbiehuang/). 
 
 ## Header 2
  
@@ -20,8 +22,14 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
-### Large image
+### Large image 
 
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
+
+
+
+
+
+
 
  
